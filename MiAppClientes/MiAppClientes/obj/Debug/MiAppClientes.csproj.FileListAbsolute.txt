@@ -1,0 +1,12 @@
+c:\users\davottack96\documents\visual studio 2015\Projects\MiAppClientes\MiAppClientes\bin\Debug\MiAppClientes.exe.config
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\bin\Debug\MiAppClientes.exe
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\bin\Debug\MiAppClientes.pdb
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\bin\Debug\MySql.Data.dll
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\obj\Debug\MiAppClientes.csprojResolveAssemblyReference.cache
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\obj\Debug\MiAppClientes.Categoria.resources
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\obj\Debug\MiAppClientes.Clientes.resources
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\obj\Debug\MiAppClientes.Form1.resources
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\obj\Debug\MiAppClientes.Properties.Resources.resources
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\obj\Debug\MiAppClientes.csproj.GenerateResource.Cache
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\obj\Debug\MiAppClientes.exe
+C:\Users\DAVOTTACK96\Documents\Visual Studio 2015\Projects\MiAppClientes\MiAppClientes\obj\Debug\MiAppClientes.pdb
